@@ -14,7 +14,7 @@ in OCTAVE, install bensolve tools
 
 >pkg load bensolve-tools
 
-run
+in OCTAVE, run
 
 >ex001
 
