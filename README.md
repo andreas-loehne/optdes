@@ -1,5 +1,7 @@
 # optdes
 
+*** Optimizer design for set linear programs ***
+
 Numerical experiments for the paper 
 "A Decision-Making Method in Polyhedral Convex Set Optimization"
 by Andreas Löhne
